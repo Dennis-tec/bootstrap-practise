@@ -2,22 +2,21 @@ h1{
   color: blue;
   text-align: center;
 }
+.intro{
+  color: maroon;
+}
 h2{
   color: blue;
-  text-align: center;
+  text-align: left;
 }
+
+
 body{
   background-image: url(../images/blessedtree.jpeg
-
 );
 }
 
-}
-.intro{
-  text-align:left;
-  color: black;
 
-}
 @media screen and ( min-width: 30px) {
   body{
     background-color: skyblue;
@@ -26,6 +25,16 @@ body{
 
 }
 img{
-  float: center;
-  width: 50px;
+  width: 280px;
+  border-radius:40cm;
+  text-align: center;
+}
+.images{
+  text-align: center;
+}
+h4{
+  color: green;
+}
+.container{
+  background-color: white;
 }
