@@ -11,21 +11,6 @@ h1{
   color: red;
 }
 
-
-
-
-}
-img{
-  width: 290px;
-  border-radius:40cm;
-  text-align: center;
-  border-color: darkblue;
-  border-width: medium;
-}
-.images{
-  text-align: center;
-  color: darkblue;
-}
 .contain{
   background-color: lightgrey;
   font-family: cursive;
@@ -43,4 +28,8 @@ color: white;
 }
 .lodges{
   background-color: blue;
+}
+img{
+  width: 290px;
+  border-radius: 41cm;
 }
