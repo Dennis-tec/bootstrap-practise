@@ -16,12 +16,13 @@ h1{
 
 }
 .column{
-font-size: 10px;
+font-size: 15px;
 columns: 3;
 color: white;
 }
 .animals{
   background-color: blue;
+
 }
 .other{
   background-color: blue;
