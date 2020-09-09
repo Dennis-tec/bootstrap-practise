@@ -1,14 +1,16 @@
 h1{
-  color: blue;
+  color: darkblue;
   text-align: center;
+  background-color: white;
+}
+.copyright{
+  color: darkblue;
+  font-weight: bold;
 }
 .intro{
-  color: maroon;
+  color: red;
 }
-h2{
-  color: blue;
-  text-align: left;
-}
+
 
 
 body{
@@ -31,18 +33,23 @@ img{
 }
 .images{
   text-align: center;
+  color: darkblue;
 }
-h4{
-  color: green;
-  font-size: 20px;
-}
-.container{
-  background-color: white;
-  font-family: sans-serif;
+.contain{
+  background-color: lightgrey;
+  font-family: cursive;
 }
 .column{
 font-size: 15px;
 columns: 3;
 color: white;
-background-color: skyblue;
+}
+.animals{
+  background-color: blue;
+}
+.other{
+  background-color: blue;
+}
+.lodges{
+  background-color: blue;
 }
