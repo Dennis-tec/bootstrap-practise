@@ -13,7 +13,7 @@ h1{
 
 .contain{
   background-color: lightgrey;
-  font-family: cursive;
+  font-family: fantasy;
 }
 .column{
 font-size: 15px;
@@ -32,4 +32,10 @@ color: white;
 img{
   width: 290px;
   border-radius: 41cm;
+
+}
+.images{
+  text-align: center;
+  color: darkblue;
+  font-size: 16px;
 }
